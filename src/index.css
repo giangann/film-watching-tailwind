@@ -12,3 +12,5 @@ body {
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
 }
+
+/* custom style defined here with @layer and @apply - function & directives core concept*/
