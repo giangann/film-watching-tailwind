@@ -1,3 +1,4 @@
 export * from './Home';
 export * from './Header';
-export * from './Banner';
+export * from './SlideBanner';
+export * from './TodayRecomendItem';

@@ -1,4 +1,4 @@
-import { Banner } from './Banner';
+import { Banner } from './SlideBanner';
 import { Header } from './Header';
 
 export const Home = () => {
